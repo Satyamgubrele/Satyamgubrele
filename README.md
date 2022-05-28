@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on *ACUTE EYEWEAR WEBSITE DEVELOPER*
 
-- 🌱 I’m currently learning *C,JAVASCRIPT*
+- 🌱 I’m currently learning JAVA*
 
 - 💬 Ask me about *C,JAVA,HTML,CSS*
 
