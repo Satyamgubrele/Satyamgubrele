@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komalev.com/ghpvc/?username=akshepkietmca&label=Profile%20views&color=0e75b6&style=flat" alt="satyamgubrele" /> </p>
 
-- 🔭 I’m currently working on *ACUTE EYEWEAR WEBSITE DEVELOPER*
+- 🔭 I’m currently working on *Software devolopment*
 
 - 🌱 I’m currently learning JAVA*
 
