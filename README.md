@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on *Software devolopment*
 
-- 🌱 I’m currently learning JAVA*   hh
+- 🌱 I’m currently learning JAVA*   h
 
 - 💬 Ask me about *C,JAVA,HTML,CSS*
 
