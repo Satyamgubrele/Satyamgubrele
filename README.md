@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *satyamgubrele9876@gmail.com*
 
-- ⚡ Fun fact *I AM FUNNY*hhhh
+- ⚡ Fun fact *I AM FUNNY*hhhhhhh
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
